@@ -20,3 +20,4 @@ def func_c(points, degree):
 		func_b(points[0], func_c(points[0], points[1]),func_c(points[0], points[2]))
 func_a(100, 3)
 raw_input("q")
+#dfhdfhdfhd
